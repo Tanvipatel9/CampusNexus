@@ -1,4 +1,3 @@
-# CampusNexus
 # CampusNexus: Centralized Resource Hub for UofT Students
 
 ## Introduction
