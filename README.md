@@ -2,7 +2,7 @@
 
 ## Introduction
 
-CampusNexus is a high-fidelity prototype designed to address a common challenge faced by students at the University of Toronto (UofT): the fragmentation and loss of important information and opportunities across multiple channels. Our app aims to centralize resources and streamline access to vital information, enabling students to maximize their academic, extracurricular, career development, and wellbeing experiences.
+CampusNexus is a high-fidelity prototype designed as a part of a course group project to address a common challenge faced by students at the University of Toronto (UofT): the fragmentation and loss of important information and opportunities across multiple channels. Our app aims to centralize resources and streamline access to vital information, enabling students to maximize their academic, extracurricular, career development, and wellbeing experiences.
 
 ## Problem Statement
 
